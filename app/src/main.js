@@ -8,6 +8,5 @@ Vue.component('principal', principal);
 new Vue({
   el: '#app',
   router,
-  store,
   components: principal
 })
