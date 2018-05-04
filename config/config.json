@@ -1,0 +1,20 @@
+{
+  "pro": {
+    "banco":"GPLOG",
+    "usuario":"GPLOG",
+    "senha":"DADOS",
+    "senha_hash":"",
+    "porta":"3306",
+    "host":"localhost",
+    "limite_conexoes": 10
+  },
+  "dev": {
+    "banco":"GPLOG",
+    "usuario":"GPLOG",
+    "senha":"DADOS",
+    "senha_hash":"",
+    "porta":"3306",
+    "host":"localhost",
+    "limite_conexoes": 10
+  }
+}
